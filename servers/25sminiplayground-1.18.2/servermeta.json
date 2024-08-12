@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/helios/25sminiplayground/distro/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "이오의 미니 놀이터 (Minecraft 1.18.2)",
+    "description": "이오의 미니 놀이터 (Forge v40.2.18)",
+    "icon": "https://raw.githubusercontent.com/glglqlql/25-sminiplayground-distro/main/serverimg.png",
+    "address": "oruni.kro.kr",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "40.2.18"
+  },
+  "untrackedFiles": []
+}
