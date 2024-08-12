@@ -12,7 +12,7 @@
       "name": "이오의 미니 놀이터 (Minecraft 1.18.2)",
       "description": "이오의 미니 놀이터 (Forge v40.2.18)",
       "icon": "https://raw.githubusercontent.com/glglqlql/25-sminiplayground-distro/main/serverimg.png",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "oruni.kro.kr",
       "minecraftVersion": "1.18.2",
       "discord": {
