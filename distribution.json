@@ -573,6 +573,16 @@
           }
         },
         {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 99,
+            "url": "https://raw.githubusercontent.com/glglqlql/25-sminiplayground-distro/main/servers/25sminiplayground-1.18.2/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
           "id": "minecraft adventure 리소스팩.zip",
           "name": "minecraft adventure 리소스팩.zip",
           "type": "File",
